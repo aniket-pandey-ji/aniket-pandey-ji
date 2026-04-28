@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketpandey&label=Profile%20views&color=58a6ff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aniket-pandey-ji&label=Profile%20views&color=58a6ff&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20DSA-orange?style=flat" />
 </p>
@@ -30,11 +30,11 @@ const aniket = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[JARVIS](https://github.com/aniketpandey)** | AI-powered personal life management system — chat, DSA log, task tracker, health & study monitoring | Node.js, Express, MongoDB, React, Claude API |
-| **[Student Hub](https://github.com/aniketpandey)** | Student resource & community platform | Express, MongoDB, HTML, Vercel |
-| **[AnikCode](https://github.com/aniketpandey)** | React-based code translation tool | React, JavaScript |
-| **[Portfolio](https://github.com/aniketpandey)** | Personal portfolio website | HTML, CSS, JS |
-| **[Joke Generator](https://github.com/aniketpandey)** | Claude API-powered joke app | Vanilla JS, Anthropic API |
+| **[JARVIS](https://github.com/aniket-pandey-ji)** | AI-powered personal life management system — chat, DSA log, task tracker, health & study monitoring | Node.js, Express, MongoDB, React, Claude API |
+| **[Student Hub](https://github.com/aniket-pandey-ji)** | Student resource & community platform | Express, MongoDB, HTML, Vercel |
+| **[AnikCode](https://github.com/aniket-pandey-ji)** | React-based code translation tool | React, JavaScript |
+| **[Portfolio](https://github.com/aniket-pandey-ji)** | Personal portfolio website | HTML, CSS, JS |
+| **[Joke Generator](https://github.com/aniket-pandey-ji)** | Claude API-powered joke app | Vanilla JS, Anthropic API |
 
 ---
 
@@ -51,12 +51,12 @@ const aniket = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniketpandey&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketpandey&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aniket-pandey-ji&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-pandey-ji&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketpandey&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-pandey-ji&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Focus: Arrays → Recursion → OOP → Trees → DP
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniketpandey/aniketpandey/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aniket-pandey-ji/aniket-pandey-ji/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
