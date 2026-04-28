@@ -60,11 +60,11 @@
 interface Developer {
   name: "Aniket Pandey";
   role: "Full-Stack Architect & AI Engineer";
-  location: "🇮🇳 Prayagraj, Uttar Pradesh";
+  location: "🇮🇳 Gorakhpur, Uttar Pradesh";
   education: {
     degree: "BCA",
     institution: "MPPG College, DDU Gorakhpur",
-    period: "2024 → 2027",
+    period: "2025 → 2028",
     status: "🎓 In Progress"
   };
   
@@ -137,7 +137,7 @@ interface Developer {
   };
   
   goals: {
-    2024: [
+    2026: [
       "✅ Build 15+ Production-Grade Projects",
       "🎯 Solve 600+ DSA Problems (LeetCode + CF)",
       "🚀 Land FAANG/Unicorn Internship",
