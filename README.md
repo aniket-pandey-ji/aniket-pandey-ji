@@ -74,13 +74,13 @@ Focus: Arrays → Recursion → OOP → Trees → DP
 ### 🔗 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/aniketpandey" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-pandey-74b800297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/aniket.aiverse" target="_blank">
+  <a href="https://www.instagram.com/aniket_pandey07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:aniketpandey@email.com" target="_blank">
+  <a href="mailto:aniketpandeyvimla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
