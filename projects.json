@@ -1,0 +1,44 @@
+[
+{
+"name": "Portfolio",
+"repo": "aniket-pandey-ji/Portfolio",
+"logo": "portfolio.png",
+"description": "Personal portfolio website showcasing my projects, skills, and development work.",
+"tags": ["HTML"]
+},
+{
+"name": "Real Estate Advisory",
+"repo": "aniket-pandey-ji/realstate-advisory",
+"logo": "realstate.png",
+"description": "A real estate advisory project for property-related solutions and information.",
+"tags": ["HTML"]
+},
+{
+"name": "Student Hub",
+"repo": "aniket-pandey-ji/student-hub",
+"logo": "student-hub.png",
+"description": "A platform focused on student resources, tools, and collaboration.",
+"tags": ["TypeScript"]
+},
+{
+"name": "AI Jarvis Assistant",
+"repo": "aniket-pandey-ji/ai-jarvis-assistant",
+"logo": "jarvis.png",
+"description": "An AI-powered assistant project.",
+"tags": ["TypeScript"]
+},
+{
+"name": "LMS Frontend",
+"repo": "aniket-pandey-ji/lms-frontend",
+"logo": "lms.png",
+"description": "Frontend interface for a Learning Management System.",
+"tags": ["JavaScript"]
+},
+{
+"name": "Calendar Outlook",
+"repo": "aniket-pandey-ji/Calendar-Outlook-",
+"logo": "calendar.png",
+"description": "A calendar and Outlook-related project.",
+"tags": ["Jupyter Notebook"]
+}
+]
