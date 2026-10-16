@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="100%" role="img" aria-labelledby="aniketHeroTitle aniketHeroDesc">
+  <title id="aniketHeroTitle">Aniket Pandey — Backend Developer and Database Engineering</title>
+  <desc id="aniketHeroDesc">Animated burgundy technical banner featuring orbital geometry, database query pipeline nodes, and systems engineering typography for Aniket Pandey in Gorakhpur, India.</desc>
+  <defs>
+    <linearGradient id="ap-hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10070C" />
+      <stop offset="48%" stop-color="#190B12">
+        <animate attributeName="stop-color" values="#190B12;#260C18;#190B12" dur="10s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#451126">
+        <animate attributeName="stop-color" values="#451126;#2D0B19;#451126" dur="10s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <radialGradient id="ap-hero-glow" cx="78%" cy="50%" r="52%">
+      <stop offset="0%" stop-color="#701A3D" stop-opacity="0.45">
+        <animate attributeName="stop-opacity" values="0.32;0.55;0.32" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="55%" stop-color="#451126" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#10070C" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="ap-hero-line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#701A3D" />
+      <stop offset="50%" stop-color="#C77B9B" />
+      <stop offset="85%" stop-color="#E5B5C7" />
+      <stop offset="100%" stop-color="#190B12" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="ap-query-pulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#451126" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#E5B5C7" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#C77B9B" stop-opacity="0.2" />
+    </linearGradient>
+    <pattern id="ap-tech-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#C77B9B" stroke-width="0.6" stroke-opacity="0.08" />
+      <circle cx="40" cy="40" r="1" fill="#E5B5C7" fill-opacity="0.16" />
+    </pattern>
+    <filter id="ap-soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="1200" height="380" rx="14" fill="url(#ap-hero-bg)" stroke="#701A3D" stroke-width="1.5" stroke-opacity="0.55" />
+  <rect width="1200" height="380" rx="14" fill="url(#ap-hero-glow)" />
+  <rect width="1200" height="380" rx="14" fill="url(#ap-tech-grid)" />
+  <line x1="48" y1="36" x2="1152" y2="36" stroke="#701A3D" stroke-width="0.75" stroke-opacity="0.45" />
+  <line x1="48" y1="344" x2="1152" y2="344" stroke="#701A3D" stroke-width="0.75" stroke-opacity="0.45" />
+  <g transform="translate(935, 190)">
+    <circle cx="0" cy="0" r="128" fill="none" stroke="#701A3D" stroke-width="1" stroke-opacity="0.45" />
+    <circle cx="0" cy="0" r="102" fill="none"edit stroke="#C77B9B" stroke-width="1.2" stroke-dasharray="6 10" stroke-opacity="0.45">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="0" cy="0" r="74" fill="none" stroke="#E5B5C7" stroke-width="0.9" stroke-dasharray="18 12" stroke-opacity="0.3">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite" />
+    </circle>
+    <g transform="translate(-26, -30)" stroke="#E5B5C7" stroke-width="1.5" fill="#190B12" fill-opacity="0.85">
+      <ellipse cx="26" cy="10" rx="26" ry="9" fill="#451126" />
+      <path d="M0,10 v20 c0,5 11.6,9 26,9 s26,-4 26,-9 v-20" />
+      <path d="M0,30 v20 c0,5 11.6,9 26,9 s26,-4 26,-9 v-20" />
+      <circle cx="40" cy="22" r="2" fill="#F8F0F3" stroke="none">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="40" cy="42" r="2" fill="#C77B9B" stroke="none">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite" />
+      </circle>
+    </g>
+    <circle cx="0" cy="-102" r="3.5" fill="#F8F0F3">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="74" cy="0" r="3" fill="#C77B9B">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <path id="ap-query-path" d="M 72 268 L 540 268 L 575 232 L 775 232 L 807 190" fill="none" stroke="url(#ap-query-pulse)" stroke-width="1.8" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" from="160" to="0" dur="6s" repeatCount="indefinite" />
+  </path>
+  <circle cx="540" cy="268" r="3.5" fill="#C77B9B" />
+  <circle cx="575" cy="232" r="3.5" fill="#E5B5C7" />
+  <circle cx="775" cy="232" r="3.5" fill="#C77B9B" />
+  <circle cx="807" cy="190" r="4.5" fill="#F8F0F3" filter="url(#ap-soft-glow)">
+    <animate attributeName="r" values="3.5;5.5;3.5" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle r="3.5" fill="#F8F0F3" filter="url(#ap-soft-glow)">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M 72 268 L 540 268 L 575 232 L 775 232 L 807 190" />
+  </circle>
+  <text x="72" y="72" fill="#C77B9B" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11.5" letter-spacing="2.4">
+    SYS.IDENTITY // GORAKHPUR, IN · BCA SEM 03
+  </text>
+  <text x="1128" y="72" text-anchor="end" fill="#E5B5C7" fill-opacity="0.7" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" letter-spacing="1.5">
+    [DB.ENGINE : ACTIVE]
+  </text>
+  <text x="72" y="156" fill="#F8F0F3" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="56" font-weight="700" letter-spacing="4.5">
+    ANIKET PANDEY
+  </text>
+  <rect x="72" y="176" width="440" height="3" rx="1.5" fill="url(#ap-hero-line-grad)" filter="url(#ap-soft-glow)">
+    <animate attributeName="width" values="360;460;360" dur="7s" repeatCount="indefinite" />
+  </rect>
+  <text x="72" y="218" fill="#E5B5C7" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="500" letter-spacing="1.2">
+    Backend Developer · Database Engineering · Software Development
+  </text>
+  <text x="582" y="220" fill="#C77B9B" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" letter-spacing="1">
+    SELECT * FROM systems WHERE status = 'shipping';
+  </text>
+  <text x="72" y="318" fill="#C77B9B" fill-opacity="0.9" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" letter-spacing="1.2">
+    Learning, building, solving, and shipping real projects.
+  </text>
+</svg>
