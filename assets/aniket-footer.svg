@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="100%" height="100%" role="img" aria-labelledby="aniketFooterTitle aniketFooterDesc">
+  <title id="aniketFooterTitle">Aniket Pandey — Engineering Footer</title>
+  <desc id="aniketFooterDesc">Minimal burgundy animated footer with a moving data pulse and closing engineering motto.</desc>
+  <defs>
+    <linearGradient id="ap-footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10070C" />
+      <stop offset="50%" stop-color="#190B12" />
+      <stop offset="100%" stop-color="#10070C" />
+    </linearGradient>
+    <linearGradient id="ap-footer-trace" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10070C" stop-opacity="0" />
+      <stop offset="25%" stop-color="#701A3D" />
+      <stop offset="50%" stop-color="#C77B9B" />
+      <stop offset="75%" stop-color="#701A3D" />
+      <stop offset="100%" stop-color="#10070C" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="10" fill="url(#ap-footer-bg)" stroke="#451126" stroke-width="1.2" />
+  <line x1="120" y1="38" x2="1080" y2="38" stroke="url(#ap-footer-trace)" stroke-width="1.2" />
+  <polygon points="600,30 608,38 600,46 592,38" fill="#451126" stroke="#E5B5C7" stroke-width="1.2" />
+  <circle cy="38" r="2.8" fill="#F8F0F3">
+    <animate attributeName="cx" values="220;980;220" dur="9s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="9s" repeatCount="indefinite" />
+  </circle>
+  <text x="600" y="76" text-anchor="middle" fill="#E5B5C7" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" letter-spacing="2.2">
+    DESIGNED FOR RELIABLE SYSTEMS · ANIKET PANDEY · GORAKHPUR, IN
+  </text>
+</svg>
