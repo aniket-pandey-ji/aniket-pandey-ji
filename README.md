@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="./assets/aniket-hero.svg" alt="Aniket Pandey — Backend Developer · Database Engineering · Software Development" width="100%" />
 </div>
@@ -32,6 +33,7 @@ My work centers on designing clean REST APIs, structuring database schemas, impl
 | **Anik Code** | Browser-based source code conversion utility designed for developers to translate code snippets across programming languages in a clean workspace. | `React` `JavaScript` `Claude API` | **Live** · [anikcode.space-z.ai](https://anikcode.space-z.ai) |
 | **Student Hub** | Full-stack student platform combining a React client interface with a Node.js/Express REST backend, MongoDB persistence, and token-based authentication workflows. | `React` `Node.js` `Express` `MongoDB` `JWT` `Socket.IO` `Redux Toolkit` | **Live** · [student-hub-inky.vercel.app](https://student-hub-inky.vercel.app) |
 | **Portfolio 1.0** | Earlier iteration of my personal developer portfolio showcasing foundational frontend architecture and responsive layouts. | `HTML` `CSS` `JavaScript` | **Archive** · [portfolio-aniket-pandey.vercel.app](https://portfolio-aniket-pandey.vercel.app) |
+| **Jain Neuromax Hospital** | Hospital website presenting hospital information, doctor profiles, medical specialities, and appointment-related navigation. | `Next.js` `React` `TypeScript` `Tailwind CSS` | **Live** · [Visit Website](https://jainneuromaxhospital.site.je/) · [GitHub Repository](https://github.com/aniket-pandey-ji/jain-neuromax-hospital) |
 | **Electronic Device Detector** | Computer-vision project intended to detect electronic devices in camera images or video streams. | `Python` `OpenCV` `YOLO` `Ultralytics` | **In Development** · [GitHub Profile](https://github.com/aniket-pandey-ji) |
 
 ---
@@ -80,6 +82,7 @@ Public repository metrics and language breakdown queried from the GitHub API (re
 - **LinkedIn:** [linkedin.com/in/aniket-pandey-74b800297](https://www.linkedin.com/in/aniket-pandey-74b800297)
 - **Anik Code:** [anikcode.space-z.ai](https://anikcode.space-z.ai)
 - **Student Hub:** [student-hub-inky.vercel.app](https://student-hub-inky.vercel.app)
+- **Jain Neuromax Hospital:** [jainneuromaxhospital.site.je](https://jainneuromaxhospital.site.je/)
 - **Portfolio 1.0:** [portfolio-aniket-pandey.vercel.app](https://portfolio-aniket-pandey.vercel.app)
 
 <br />
